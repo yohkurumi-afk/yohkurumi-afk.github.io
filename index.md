@@ -1,3 +1,17 @@
+<style>
+  /* ヘッダー（上の青い部分）を消す */
+  header {
+    display: none !important;
+  }
+  /* 本文の表示幅などを調整して見やすくする */
+  section {
+    width: 100% !important;
+    max-width: 800px !important;
+    margin: 0 auto !important;
+    padding: 30px 20px !important;
+  }
+</style>
+
 # My Portfolio
 
 樋口のポートフォリオサイトです。
@@ -7,7 +21,7 @@
 
 ## 開発したアプリ
 
-### 1. 【アプリ名】あの人の干支が知りたい
+### 1. あの人の干支が知りたい
 有名人の出生年や干支が知りたいことってありますよね？？
 そんな時はこのアプリ！なんと完全無料であの有名人の干支が特定できます！
 - **[アプリを開く (Streamlit)](https://celebrity-zodiac-finder-8imhaywbpagvx59vlczuga.streamlit.app/)**
