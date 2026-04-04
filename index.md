@@ -29,7 +29,7 @@
 
 ### 2. 3問読書診断（リリース:2026/04/05）
 「読書が好き」と言うと、おすすめの本をよく聞かれますが、あなたのことを何も知らないのに簡単に勧められません。<br>
-そんな時はこのアプリ！3つの質問に答えるだけであなたへのおすすめ本を紹介します！📚
+そんな時はこのアプリ！3つの質問に答えるだけであなたへのおすすめ本を紹介します！📚<br>
 たまに更新していきます。
 - [アプリを開く (Streamlit)](https://book-recommender-fme7t4pft4cyp7fuzpoqzw.streamlit.app/)
 - [ソースコードを見る (GitHub)](https://github.com/yohkurumi-afk/book-recommender)
