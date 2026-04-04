@@ -26,3 +26,10 @@
 そんな時はこのアプリ！なんと完全無料であの有名人の干支が特定できます！👀
 - [アプリを開く (Streamlit)](https://celebrity-zodiac-finder-8imhaywbpagvx59vlczuga.streamlit.app/)
 - [ソースコードを見る (GitHub)](https://github.com/yohkurumi-afk/celebrity-zodiac-finder)
+
+### 2. おすすめの本を聞かれても話は広がりません。（リリース:2026/04/05）
+「読書が好き」と言うと、おすすめの本をよく聞かれますが、あなたのことを何も知らないのに簡単に勧められません。<br>
+そんな時はこのアプリ！3つの質問に答えるだけであなたへのおすすめ本を紹介します！📚
+たまに更新していきます。
+- [アプリを開く (Streamlit)](https://book-recommender-fme7t4pft4cyp7fuzpoqzw.streamlit.app/)
+- [ソースコードを見る (GitHub)](https://github.com/yohkurumi-afk/book-recommender)
