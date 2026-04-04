@@ -27,7 +27,7 @@
 - [アプリを開く (Streamlit)](https://celebrity-zodiac-finder-8imhaywbpagvx59vlczuga.streamlit.app/)
 - [ソースコードを見る (GitHub)](https://github.com/yohkurumi-afk/celebrity-zodiac-finder)
 
-### 2. おすすめの本を聞かれても話は広がりません。（リリース:2026/04/05）
+### 2. 3問読書診断（リリース:2026/04/05）
 「読書が好き」と言うと、おすすめの本をよく聞かれますが、あなたのことを何も知らないのに簡単に勧められません。<br>
 そんな時はこのアプリ！3つの質問に答えるだけであなたへのおすすめ本を紹介します！📚
 たまに更新していきます。
