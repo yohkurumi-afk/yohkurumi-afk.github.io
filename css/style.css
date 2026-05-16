@@ -67,29 +67,24 @@ a:hover {
 /* Intro */
 
 .intro {
-  padding: 72px 0 56px;
-  border-bottom: 1px solid #eadfbd;
+  padding: 72px 0 36px;
+  border-bottom: none;
   background: #fffdf5;
 }
 
-.intro h2 {
-  margin: 0 0 20px;
-  font-size: 36px;
-  font-weight: 600;
-  letter-spacing: 0.02em;
-  color: #1f1f1f;
-}
-
 .intro p {
-  max-width: 720px;
+  max-width: 880px;
   margin: 0;
   color: #444;
+  font-size: 22px;
+  line-height: 2;
+  letter-spacing: 0.03em;
 }
 
 /* Common section */
 
 .section {
-  padding: 56px 0;
+  padding: 36px 0 56px;
   border-bottom: 1px solid #eadfbd;
 }
 
